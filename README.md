@@ -117,7 +117,5 @@ Machine Learning Engineer
 
 
 
-📬 your@email.com
+📬 aieng.abdullah.arif@gmail.com
 
-📄 License
-MIT License — free to use, modify, and distribute.
